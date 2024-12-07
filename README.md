@@ -25,7 +25,7 @@ Welcome to the **Shyampari Edutech** project! This is a modern and responsive fr
 ## Live Demo 🌍
 
 You can explore the live demo of this project at:  
-[Shyampari Edutech Demo](https://edutech-project-p8lu6wfv5-amulya-ratna-sharmas-projects.vercel.app)
+[Shyampari Edutech Demo]([https://edutech-project-p8lu6wfv5-amulya-ratna-sharmas-projects.vercel.app](https://edutech-project2.vercel.app/))
 
 ## Tech Stack ⚙️
 
